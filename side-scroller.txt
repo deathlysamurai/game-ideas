@@ -1,0 +1,6 @@
+https://www.albinoblacksheep.com/games/copter
+
+Could definitely do a side scroller such as flappy bird, or the old school
+fly the copter game that I used to play. If I was going to do something like 
+that I would probably add some kind of progression system, so you get 
+something out of each run.
