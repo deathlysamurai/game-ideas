@@ -1,2 +1,0 @@
-Could make a puzzle game with logic gates. Maybe also have a level editor,
-and/or an area just to mess with logic gates and learn something.

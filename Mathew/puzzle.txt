@@ -1,0 +1,16 @@
+https://play2048.co/
+
+We could do something like 2048 but maybe change it up a bit. Could do like 
+hexadecimal numbers. Maybe a puzzle variant like http://mcsdwvl.github.io/to11/.
+Maybe make it so you could choose what size grid you want to play on, and maybe
+add other things you could choose.
+
+
+Could make a puzzle game with logic gates. Maybe also have a level editor,
+and/or an area just to mess with logic gates and learn something.
+
+
+https://littlealchemy.com/
+
+I really like little alchemy and the chill idea of just combining things, and
+find new combinations, especially when a lot of them make sense.
