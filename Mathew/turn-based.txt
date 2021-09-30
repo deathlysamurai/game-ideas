@@ -1,0 +1,13 @@
+https://www.reddit.com/r/gameideas/comments/pxtj9y/im_in_need_of_a_game_idea/heq2w8e/?context=3
+https://www.reddit.com/r/gameideas/comments/pxtj9y/im_in_need_of_a_game_idea/
+
+In case first link doesn't work, it is from a comment on this post by shoulddev.
+What I was thinking is that you could make a pool table tile based. You could
+have different pool table setups and pool ball setups, and each ball would have
+a value depending on where it is that would be the damage. Each player would 
+start on the opposite side of the table with a cue ball they can hit. You can 
+only hit your cue ball and your cue ball would act as a shield, can not be hit.
+You would have a certain amount of "turns" which corresponds to how much you 
+can move and how far the ball would go. When you are deciding which ball to hit
+it will show you what will move based on which one you hit. When a ball hits 
+another ball, the damage of each ball is added together if it hits the enemy.
