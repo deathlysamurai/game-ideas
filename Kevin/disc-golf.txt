@@ -6,3 +6,11 @@ https://apps.apple.com/us/app/disc-golf-game/id1023751978
 https://www.miniclip.com/games/disc-golf/en/#privacy-settings
 https://store.steampowered.com/app/1029570/Perfect_Round_Disc_Golf/
 https://play.google.com/store/apps/details?id=com.sports.real.disc.golf.online&hl=en_US&gl=US
+
+Mathew Controls Suggestion: 
+Could just use the sticks and make it dynamic. Left stick would be pushed forward
+and tilt/angle would be determined based on where left stick is pushed. Right
+stick would be used for power and direction of throw. While left stick is pushed
+forward pull back right stick to grow power meter, when ready push right stick
+forward and depending on where your finger ended up on the right stick would 
+determine which direction your disc would fly.
